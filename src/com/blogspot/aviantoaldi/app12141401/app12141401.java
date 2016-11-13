@@ -15,7 +15,7 @@ public class app12141401 {
     int dataScore[] = {240,300,150,400,240,200};
     
     public int Level(){
-        return level*5;
+        return level*100;
     }
     
     public void hasilTebakan() {
